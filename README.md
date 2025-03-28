@@ -1,5 +1,5 @@
 # Forbidden-404
-TechKruti-- Voting App
+TechKruti
 
 
 Secure Digital Voting System
